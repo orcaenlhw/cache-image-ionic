@@ -1,0 +1,1 @@
+# Cache Images with capacitor
